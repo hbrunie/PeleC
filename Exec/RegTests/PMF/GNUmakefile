@@ -6,9 +6,9 @@ PROFILE    = FALSE
 
 DEBUG      = FALSE
 
-#DIM        = 1
 DIM        = 2
 DIM        = 3
+DIM        = 1
 
 COMP	   = gcc
 
