@@ -13,6 +13,7 @@ DIM        = 1
 COMP	   = gcc
 
 USE_MPI    = FALSE
+USE_OMP    = FALSE
 
 USE_REACT  = TRUE
 
